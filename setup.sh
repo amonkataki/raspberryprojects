@@ -4,9 +4,9 @@ set -e
 
 REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"
 
-# Initialise the worldmonitor submodule if it is empty
+# Initialize the worldmonitor submodule if it is empty
 if [ ! -f "$REPO_ROOT/worldmonitor/package.json" ]; then
-  echo "Initialising worldmonitor submodule..."
+  echo "Initializing worldmonitor submodule..."
   git -C "$REPO_ROOT" submodule update --init --recursive
 fi
 
