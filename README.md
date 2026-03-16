@@ -15,7 +15,7 @@ cd raspberryprojects
 ./setup.sh
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 If you already cloned without `--recurse-submodules`, initialize the submodule first:
 
