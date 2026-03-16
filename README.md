@@ -1,5 +1,9 @@
 # raspberryprojects
 
+[![GitHub stars](https://img.shields.io/github/stars/amonkataki/raspberryprojects?style=social)](https://github.com/amonkataki/raspberryprojects/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/amonkataki/raspberryprojects?style=social)](https://github.com/amonkataki/raspberryprojects/network/members)
+[![Last commit](https://img.shields.io/github/last-commit/amonkataki/raspberryprojects)](https://github.com/amonkataki/raspberryprojects/commits/main)
+
 ## World Monitor
 
 This repository includes [World Monitor](https://github.com/koala73/worldmonitor) — a real-time global intelligence dashboard — as a git submodule.
