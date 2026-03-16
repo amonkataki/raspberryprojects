@@ -2,7 +2,7 @@
 
 ## World Monitor
 
-This repository includes [World Monitor](https://github.com/koala73/worldmonitor) — a real-time global intelligence dashboard — as a git submodule.
+This repository includes a real-time global intelligence dashboard — as a git submodule.
 
 ### Quick Start
 
